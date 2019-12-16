@@ -1,0 +1,14 @@
+C:\someshit\диплом\EqPlayer\EqPlayer\bin\Debug\EqPlayer.exe.config
+C:\someshit\диплом\EqPlayer\EqPlayer\bin\Debug\EqPlayer.exe
+C:\someshit\диплом\EqPlayer\EqPlayer\bin\Debug\EqPlayer.pdb
+C:\someshit\диплом\EqPlayer\EqPlayer\obj\Debug\EqPlayer.Properties.Resources.resources
+C:\someshit\диплом\EqPlayer\EqPlayer\obj\Debug\EqPlayer.csproj.GenerateResource.Cache
+C:\someshit\диплом\EqPlayer\EqPlayer\obj\Debug\EqPlayer.csproj.CoreCompileInputs.cache
+C:\someshit\диплом\EqPlayer\EqPlayer\obj\Debug\EqPlayer.exe
+C:\someshit\диплом\EqPlayer\EqPlayer\obj\Debug\EqPlayer.pdb
+C:\someshit\диплом\EqPlayer\EqPlayer\bin\Debug\Tools.Slider.dll
+C:\someshit\диплом\EqPlayer\EqPlayer\obj\Debug\EqPlayer.csprojResolveAssemblyReference.cache
+C:\someshit\диплом\EqPlayer\EqPlayer\bin\Debug\MaterialSkin.dll
+C:\someshit\диплом\EqPlayer\EqPlayer\bin\Debug\bass.dll
+C:\someshit\диплом\EqPlayer\EqPlayer\bin\Debug\Bass.Net.dll
+C:\someshit\диплом\EqPlayer\EqPlayer\obj\Debug\EqPlayer.MainWindow.resources
